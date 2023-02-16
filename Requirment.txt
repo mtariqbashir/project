@@ -1,2 +1,4 @@
 type option
 white bran
+dark mode 
+vido option
